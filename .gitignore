@@ -1,0 +1,17 @@
+venv/*
+.idea/*
+__pycache__/*
+friend/migrations/*
+login/migrations/*
+login_signup/migrations/*
+KoBert/migrations/*
+chatting/migrations/*
+chattingroom/migrations/*
+friend/__pycache__/*
+login/__pycache__/*
+login_signup/__pycache__/*
+KoBert/__pycache__/*
+chatting/__pycache__/*
+chattingroom/__pycache__/*
+classifier.pt
+requirements.txt
